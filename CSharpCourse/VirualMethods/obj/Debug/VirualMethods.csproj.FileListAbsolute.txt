@@ -1,0 +1,6 @@
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\VirualMethods\bin\Debug\VirualMethods.exe.config
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\VirualMethods\bin\Debug\VirualMethods.exe
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\VirualMethods\bin\Debug\VirualMethods.pdb
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\VirualMethods\obj\Debug\VirualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\VirualMethods\obj\Debug\VirualMethods.exe
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\VirualMethods\obj\Debug\VirualMethods.pdb

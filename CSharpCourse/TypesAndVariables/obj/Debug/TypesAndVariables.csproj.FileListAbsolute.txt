@@ -1,0 +1,14 @@
+C:\Users\Berfin\Desktop\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\Berfin\Desktop\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\Berfin\Desktop\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\Berfin\Desktop\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csprojAssemblyReference.cache
+C:\Users\Berfin\Desktop\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\Desktop\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\Berfin\Desktop\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csprojAssemblyReference.cache
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

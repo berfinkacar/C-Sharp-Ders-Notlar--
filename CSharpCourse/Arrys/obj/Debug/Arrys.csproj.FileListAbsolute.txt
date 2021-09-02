@@ -1,0 +1,7 @@
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\Arrys\bin\Debug\Arrys.exe.config
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\Arrys\bin\Debug\Arrys.exe
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\Arrys\bin\Debug\Arrys.pdb
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\Arrys\obj\Debug\Arrys.csprojAssemblyReference.cache
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\Arrys\obj\Debug\Arrys.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\Arrys\obj\Debug\Arrys.exe
+C:\Users\Berfin\Desktop\Kurs\CSharpCourse\Arrys\obj\Debug\Arrys.pdb
